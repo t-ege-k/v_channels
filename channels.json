@@ -1,24 +1,26 @@
-[
-  {
-    "category": "⚽ Spor",
-    "channels": [
-      {
-        "name": "Beinsports",
-        "url": "https://taraftarium64.live/live/pspjrj"
-      },
-      {
-        "name": "S Sport",
-        "url": "https://example.com/iframe-link"
-      }
-    ]
-  },
-  {
-    "category": "🎬 Sinema & Dizi",
-    "channels": [
-      {
-        "name": "Filmbox",
-        "url": "https://example.com/stream"
-      }
-    ]
-  }
-]
+{
+  "categories": [
+    {
+      "name": "⚽ Spor",
+      "channels": [
+        {
+          "name": "Beinsports",
+          "url": "https://taraftarium64.live/live/pspjrj"
+        },
+        {
+          "name": "Eurosport",
+          "url": "https://orneklink.com/live"
+        }
+      ]
+    },
+    {
+      "name": "🎬 Sinema",
+      "channels": [
+        {
+          "name": "Sinema TV",
+          "url": "https://orneklink.com/sinema"
+        }
+      ]
+    }
+  ]
+}
