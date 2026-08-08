@@ -4,21 +4,20 @@
       "name": "⚽ Spor",
       "channels": [
         {
-          "name": "Beinsports",
-          "url": "https://taraftarium64.live/live/pspjrj"
+          "name": "Bein Sports 1",
+          "url": "https://taraftariumhd61.live/channel/watch/bein-sports-1"
         },
         {
-          "name": "Eurosport",
-          "url": "https://orneklink.com/live"
-        }
-      ]
-    },
-    {
-      "name": "🎬 Sinema",
-      "channels": [
+          "name": "Bein Sports 2",
+          "url": "https://taraftariumhd61.live/channel/watch/bein-sports-2"
+        },
         {
-          "name": "Sinema TV",
-          "url": "https://orneklink.com/sinema"
+          "name": "Bein Sports 3",
+          "url": "https://taraftariumhd61.live/channel/watch/bein-sports-3"
+        },
+        {
+          "name": "Bein Sports 4",
+          "url": "https://taraftariumhd61.live/channel/watch/bein-sports-4"
         }
       ]
     }
