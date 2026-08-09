@@ -44,10 +44,6 @@
           "url": "https://taraftariumhd61.live/channel/watch/trt-spor"
         },
         {
-          "name": "TRT 1",
-          "url": "https://taraftariumhd61.live/channel/watch/trt-1"
-        },
-        {
           "name": "A Spor",
           "url": "https://taraftariumhd61.live/channel/watch/a-spor"
         }
@@ -56,21 +52,18 @@
     {
       "name": "⚽ Günün Maçları",
       "channels": [
+      ]
+    },
+    {
+      "name": "📺 Yerel Kanallar",
+      "channels": [
         {
-          "name": "Galatasaray VS Villarreal 21:00",
-          "url": "https://taraftariumhd61.live/channel/watch/galatasaray-villarreal"
+          "name": "TRT 1",
+          "url": "https://taraftariumhd61.live/channel/watch/trt-1"
         },
         {
-          "name": "Göztepe VS Trabzonspor 20:00",
-          "url": "https://taraftariumhd61.live/channel/watch/goztepe-trabzonspor-futboi"
-        },
-        {
-          "name": "Sivasspor VS Esenler Erokspor 19:00",
-          "url": "https://taraftariumhd61.live/channel/watch/sivasspor-esenler-erokspor-futboi"
-        },
-        {
-          "name": "Antalyaspor VS Keçiörengücü 21:30",
-          "url": "https://taraftariumhd61.live/channel/watch/sivasspor-esenler-erokspor-futboi"
+          "name": "TV100",
+          "url": "https://izle.livetvuk.com/geolive.php?kanal=tv100&security=0133f2367d0dab3ac5c47fe7f6904f6a"
         }
       ]
     }
